@@ -1,0 +1,75 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "vivek",
+      "country": "UK",
+      "city": "dehradun"
+    },
+    {
+      "id": 2,
+      "name": "bittu",
+      "country": "india",
+      "city": "patna"
+    },
+    {
+      "id": 3,
+      "name": "Akhil",
+      "country": "England",
+      "city": "london"
+    },
+    {
+      "id": 4,
+      "name": "Pratibha",
+      "country": "India",
+      "city": "New Delhi"
+    },
+    {
+      "id": 5,
+      "name": "Chris Morris",
+      "country": "Australia",
+      "city": "Sydney"
+    }
+  ],
+  "signupUsers": [
+    {
+      "first": "",
+      "lastname": "Singh",
+      "email": "singh21cb@gmail.com",
+      "phone": 7675345612,
+      "password": "12345",
+      "confirmpassword": "12345",
+      "id": 1
+    },
+    {
+      "first": "",
+      "lastname": "Singh",
+      "email": "pratii@gmail.com",
+      "phone": 34572833,
+      "password": "123456",
+      "confirmpassword": "123456",
+      "id": 2
+    },
+    {
+      "firstname": "Chriss ",
+      "lastname": "Morris",
+      "email": "chris@gmail.com",
+      "phone": 7878689912,
+      "password": "1234",
+      "confirmpassword": "1234",
+      "id": 3
+    },
+    {
+      "firstname": "Priyanka",
+      "lastname": "Singh",
+      "email": "priya@gmail.com",
+      "phone": 7678374415,
+      "password": "priya",
+      "confirmpassword": "priya",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
